@@ -59,7 +59,7 @@ public class Contact extends AppCompatActivity {
         for (int i = 0; i < 5; i ++) {
             ContactModel model = new ContactModel();
             model.setName("name" + i);
-            model.setPhone("12242343" + i + "_323_" + i);
+            model.setPhone("000111011" + i + "_323_" + i);
             mList.add(model);
         }
     }
